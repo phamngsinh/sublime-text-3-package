@@ -1,0 +1,818 @@
+{
+	"folder_history":
+	[
+		"/var/www/html/orangescrum",
+		"/var/www/html/zbox",
+		"/var/www/html/paypal",
+		"/var/www/html/symfony",
+		"/var/www/html/etn",
+		"/var/www/html/rms616",
+		"/var/www/html/paypal-example",
+		"/var/www/html/membership",
+		"/var/www/html/paid-memberships-pro",
+		"/var/www/html/easy-digital-downloads",
+		"/var/www/html/paypal_integration_php",
+		"/var/www/html/Paypal-IPN-Evoluted-14-09-2015",
+		"/media/smagic39/DATA/rms616"
+	],
+	"last_version": 3126,
+	"last_window_id": 19,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fa",
+						"false\t(app.js)"
+					],
+					[
+						"pay",
+						"paypal_redirect"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"jsbea",
+						"Javascript Beautify"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Snippet: htmlboiler"
+					],
+					[
+						"bs3-cdn",
+						"Snippet: bs3-cdn"
+					]
+				],
+				"width": 556.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/var/www/html/test.php",
+				"/media/smagic39/DATA/Mega/evolutiontravel.sql",
+				"/var/www/html/paypal/paypal-example/listen.html",
+				"/var/www/html/paypal/paypal-example/index.php",
+				"/home/smagic39/.PhpStorm2016.2/config/colors/Material Peacock.icls",
+				"/var/www/html/symfony/config/ProjectConfiguration.class.php",
+				"/var/www/html/symfony/plugins/sfPropelMigrationsLightPlugin/lib/task/sfPropelInitMigrationTask.class.php",
+				"/var/www/html/symfony/plugins/package.xml",
+				"/var/www/html/symfony/lib/task/DoNothingTask.class.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/SubscriptionController.php",
+				"/home/smagic39/.config/sublime-text-3/.sublime/Local History/var/www/html/rms616/source/app/Http/Controllers/SubscriptionController-20161026174437.php",
+				"/var/www/html/rms616/source/resources/views/users/edit.blade.php",
+				"/var/www/html/rms616/source/public/js/app.js",
+				"/var/www/html/rms616/source/resources/views/layouts/app.blade.php",
+				"/var/www/html/rms616/source/storage/logs/laravel-2016-10-27.log",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php",
+				"/var/www/html/rms616/source/app/Http/routes.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/AjaxAuthController.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/Auth/PasswordController.php",
+				"/var/www/html/rms616/source/config/mail.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/Auth/AuthController.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/UserController.php",
+				"/var/www/html/rms616/app/Http/Controllers/AjaxAuthController.php",
+				"/var/www/html/rms616/source/app/Traits/AppMailer.php",
+				"/var/www/html/paypal_integration_php/db_config.php",
+				"/var/www/html/paypal_integration_php/index.php",
+				"/var/www/html/easy-digital-downloads/includes/gateways/paypal.php",
+				"/var/www/html/rms616/source/resources/views/emails/register.blade.php",
+				"/var/www/html/paypal-example/index.php",
+				"/var/www/html/easy-digital-downloads/includes/payments/functions.php",
+				"/var/www/html/paid-memberships-pro/includes/lib/Braintree/Braintree/Subscription.php",
+				"/var/www/html/paypal-example/listen.html",
+				"/var/www/html/paypal-example/success.html",
+				"/var/www/html/paid-memberships-pro/adminpages/memberslist.php"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/var/www/html/easy-digital-downloads",
+					"/var/www/html/paid-memberships-pro"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ROW_FORMAT=FIXED",
+					"sfPropelMigrationsLightPlugin",
+					"sfDoctrinePlugin",
+					"Migration001",
+					"',\n",
+					"');\n",
+					"old_password",
+					"edd_insert_payment",
+					"edd_insert_payment(",
+					"edd_insert_payment",
+					"purchase_key",
+					"edd_process_paypal_purchase",
+					"purchase_data",
+					"EXPIRED",
+					"expired",
+					"\">\n",
+					"opcache"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 122.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"sfpropelinitmigrationtask.class.php",
+						"plugins/sfPropelMigrationsLightPlugin/lib/task/sfPropelInitMigrationTask.class.php"
+					],
+					[
+						"subscriptioncontroller.php",
+						"source/app/Http/Controllers/SubscriptionController.php"
+					],
+					[
+						"authcon",
+						"source/app/Http/Controllers/Auth/AuthController.php"
+					],
+					[
+						"email.php",
+						"source/config/mail.php"
+					],
+					[
+						"passwordcontroller.php",
+						"source/app/Http/Controllers/Auth/PasswordController.php"
+					],
+					[
+						"subscriptioncon",
+						"source/app/Http/Controllers/SubscriptionController.php"
+					],
+					[
+						"usercontro",
+						"source/app/Http/Controllers/UserController.php"
+					],
+					[
+						"ajaxauthcontroller",
+						"source/app/Http/Controllers/AjaxAuthController.php"
+					],
+					[
+						"input.php",
+						"source/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php"
+					],
+					[
+						"app.bal",
+						"source/resources/views/layouts/app.blade.php"
+					],
+					[
+						"ajax",
+						"app/Http/Controllers/AjaxAuthController.php"
+					],
+					[
+						"app.js",
+						"source/public/js/app.js"
+					],
+					[
+						"edit.php",
+						"source/resources/views/users/edit.blade.php"
+					],
+					[
+						"subscriptioncontr",
+						"rms616/source/app/Http/Controllers/SubscriptionController.php"
+					],
+					[
+						"py",
+						"easy-digital-downloads/includes/gateways/paypal.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 347.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"create",
+						"created_at\t(DatabaseTokenRepository.php)"
+					],
+					[
+						"fa",
+						"false\t(app.js)"
+					],
+					[
+						"pay",
+						"paypal_redirect"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "mVG246pSHf5cu",
+					"settings":
+					{
+						"buffer_size": 13,
+						"line_ending": "Unix",
+						"name": "mVG246pSHf5cu"
+					}
+				},
+				{
+					"contents": "<?php\n\nnamespace App;\n\nuse Illuminate\\Foundation\\Auth\\User as Authenticatable;\n\nclass User extends Authenticatable\n{\n    /**\n     * The attributes that are mass assignable.\n     *\n     * @var array\n     */\n    protected $fillable = [\n        'name', 'email', 'password',\n    ];\n\n    /**\n     * The attributes that should be hidden for arrays.\n     *\n     * @var array\n     */\n    protected $hidden = [\n        'password', 'remember_token',\n    ];\n}\n",
+					"file": "rms616/source/app/User.php",
+					"file_size": 450,
+					"file_write_time": 131227002988631079,
+					"settings":
+					{
+						"buffer_size": 449,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "rms616/source/resources/views/layouts/header.blade.php",
+					"settings":
+					{
+						"buffer_size": 1478,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"jsbea",
+						"Javascript Beautify"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Snippet: htmlboiler"
+					],
+					[
+						"bs3-cdn",
+						"Snippet: bs3-cdn"
+					]
+				],
+				"width": 601.0
+			},
+			"console":
+			{
+				"height": 175.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/var/www/html/rms616",
+				"/var/www/html/rms616/source",
+				"/var/www/html/rms616/source/Modules",
+				"/var/www/html/rms616/source/app",
+				"/var/www/html/rms616/source/database",
+				"/var/www/html/rms616/source/resources",
+				"/var/www/html/rms616/source/resources/views",
+				"/var/www/html/rms616/source/resources/views/client",
+				"/var/www/html/rms616/source/storage",
+				"/var/www/html/rms616/source/storage/logs"
+			],
+			"file_history":
+			[
+				"/var/www/html/rms616/source/resources/views/client/index.blade.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/Auth/PasswordController.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+				"/var/www/html/rms616/source/app/Repositories/UserRepository.php",
+				"/var/www/html/rms616/source/resources/views/layouts/footer.blade.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/ClientController.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Auth/Passwords/DatabaseTokenRepository.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/SubscriptionController.php",
+				"/var/www/html/rms616/source/app/Helper/helpers.php",
+				"/var/www/html/rms616/source/public/assets/scripts/admin.js",
+				"/var/www/html/rms616/source/config/currency.php",
+				"/var/www/html/rms616/source/config/auth.php",
+				"/var/www/html/rms616/source/resources/assets/js/app.js",
+				"/var/www/html/rms616/source/public/assets/scripts/frontend.js",
+				"/var/www/html/rms616/source/public/assets/scripts/app.js",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordBroker.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php",
+				"/var/www/html/rms616/source/storage/logs/laravel-2016-11-03.log",
+				"/var/www/html/rms616/source/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+				"/var/www/html/rms616/source/database/migrations/2016_11_03_030830_update_password_resets_table.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php",
+				"/home/smagic39/.config/sublime-text-3/.sublime/Local History/var/www/html/rms616/source/app/Http/Controllers/SubscriptionController-20161026174437.php",
+				"/var/www/html/rms616/source/resources/views/users/edit.blade.php",
+				"/var/www/html/rms616/source/public/js/app.js",
+				"/var/www/html/rms616/source/resources/views/layouts/app.blade.php",
+				"/var/www/html/rms616/source/storage/logs/laravel-2016-10-27.log",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php",
+				"/var/www/html/rms616/source/app/Http/routes.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/AjaxAuthController.php",
+				"/var/www/html/rms616/source/config/mail.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/Auth/AuthController.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/UserController.php",
+				"/var/www/html/rms616/app/Http/Controllers/AjaxAuthController.php",
+				"/var/www/html/rms616/source/app/Traits/AppMailer.php",
+				"/var/www/html/paypal_integration_php/db_config.php",
+				"/var/www/html/paypal_integration_php/index.php",
+				"/var/www/html/easy-digital-downloads/includes/gateways/paypal.php",
+				"/var/www/html/rms616/source/resources/views/emails/register.blade.php",
+				"/var/www/html/paypal-example/index.php",
+				"/var/www/html/easy-digital-downloads/includes/payments/functions.php",
+				"/var/www/html/paid-memberships-pro/includes/lib/Braintree/Braintree/Subscription.php",
+				"/var/www/html/paypal-example/listen.html",
+				"/var/www/html/paypal-example/success.html",
+				"/var/www/html/paid-memberships-pro/adminpages/memberslist.php"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/var/www/html/rms616/source",
+					"/var/www/html/rms616/source/resources",
+					"/var/www/html/rms616/source",
+					"/var/www/html/rms616/source/resources/views",
+					"/var/www/html/rms616/source/resources",
+					"/var/www/html/rms616/source",
+					"/var/www/html/easy-digital-downloads",
+					"/var/www/html/paid-memberships-pro"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"mVG246pSHf5cu",
+					"CLIENT LIST",
+					"How to use",
+					"tokenIsExpired",
+					"expired",
+					"password_resets",
+					"account_link_expired",
+					");\n",
+					"token_is_expired",
+					"-",
+					"strtoupper(",
+					"Auth::user()->currency)",
+					"subscription_package_amount_total",
+					"render",
+					"currency",
+					"account_link_expired",
+					"',\n",
+					"');\n",
+					"old_password",
+					"edd_insert_payment",
+					"edd_insert_payment(",
+					"edd_insert_payment",
+					"purchase_key",
+					"edd_process_paypal_purchase",
+					"purchase_data",
+					"EXPIRED",
+					"expired",
+					"\">\n",
+					"opcache"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 13,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13,
+										13
+									]
+								],
+								"settings":
+								{
+									"auto_name": "mVG246pSHf5cu",
+									"default_dir": "/var/www/html/rms616",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "rms616/source/app/User.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 449,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										233,
+										233
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "rms616/source/resources/views/layouts/header.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1478,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1011,
+										1011
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 38.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 122.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "rms616.sublime-project",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"header.blade",
+						"source/resources/views/layouts/header.blade.php"
+					],
+					[
+						"clientcontroller",
+						"source/app/Http/Controllers/ClientController.php"
+					],
+					[
+						"help",
+						"source/app/Helper/helpers.php"
+					],
+					[
+						"auth.php",
+						"source/config/auth.php"
+					],
+					[
+						"2016_11_03_030830_update_password_resets_table",
+						"source/database/migrations/2016_11_03_030830_update_password_resets_table.php"
+					],
+					[
+						"databasetokenrepository",
+						"source/vendor/laravel/framework/src/Illuminate/Auth/Passwords/DatabaseTokenRepository.php"
+					],
+					[
+						"subscriptioncontroller.php",
+						"source/app/Http/Controllers/SubscriptionController.php"
+					],
+					[
+						"authcon",
+						"source/app/Http/Controllers/Auth/AuthController.php"
+					],
+					[
+						"email.php",
+						"source/config/mail.php"
+					],
+					[
+						"passwordcontroller.php",
+						"source/app/Http/Controllers/Auth/PasswordController.php"
+					],
+					[
+						"subscriptioncon",
+						"source/app/Http/Controllers/SubscriptionController.php"
+					],
+					[
+						"usercontro",
+						"source/app/Http/Controllers/UserController.php"
+					],
+					[
+						"ajaxauthcontroller",
+						"source/app/Http/Controllers/AjaxAuthController.php"
+					],
+					[
+						"input.php",
+						"source/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php"
+					],
+					[
+						"app.bal",
+						"source/resources/views/layouts/app.blade.php"
+					],
+					[
+						"ajax",
+						"app/Http/Controllers/AjaxAuthController.php"
+					],
+					[
+						"app.js",
+						"source/public/js/app.js"
+					],
+					[
+						"edit.php",
+						"source/resources/views/users/edit.blade.php"
+					],
+					[
+						"subscriptioncontr",
+						"rms616/source/app/Http/Controllers/SubscriptionController.php"
+					],
+					[
+						"py",
+						"easy-digital-downloads/includes/gateways/paypal.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 288.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 19,
+			"workspace_name": "/var/www/html/rms616.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/var/www/html/rms616.sublime-workspace",
+			"/var/www/html/paypal.sublime-workspace",
+			"/var/www/html/symfony.sublime-workspace",
+			"/var/www/html/etn.sublime-workspace"
+		]
+	}
+}

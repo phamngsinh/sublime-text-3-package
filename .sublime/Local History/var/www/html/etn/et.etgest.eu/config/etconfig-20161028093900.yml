@@ -1,0 +1,197 @@
+#dev:
+#  .settings:
+#    loginUrl: ~
+#    baseUrl: 'http://etapps.devel.local'
+#    #baseUrl: 'http://www.mymac.loc/etgest'
+#    apps:
+#      etgest:
+#        url: 'http://etapps.devel.local/amministrazione/etgest'
+#        #url: 'http://www.mymac.loc/amministrazione/etgest'
+#      backoffice:
+#        url: 'http://etapps.devel.local/etgest'
+#        #url: 'http://www.mymac.loc/etgest'
+#      etticket:
+#        url: 'http://etapps.devel.local/amministrazione/etticket/'
+#        #url: 'http://www.mymac.loc/amministrazione/etticket'
+#        path: 'C:\wamp\www\et\amministrazione\etticket'
+#        #path: '/Users/luca/Sites/amministrazione/etticket'
+#      tway:
+#        url: 'http://etapps.devel.local/amministrazione/tway/'
+qs_dev:
+  .settings:
+    baseUrl: 'http://agenziaeu.test2-evolutiontravel.com/etgest'
+    siapProxyUrl: 'http://agenziaeu.test2-evolutiontravel.com/siaproxy/proxy.php'
+    siapIncassiUrl: 'http://agenziaeu.test2-evolutiontravel.com/siaproxy/incassi.php'
+    etgest:
+      url: 'http://agenziaeu.test2-evolutiontravel.com/amministrazione/etgest/'
+    etticket:
+      url: 'http://agenziaeu.test2-evolutiontravel.com/amministrazione/etticket/'
+      path: '/nucleus/srv/www/domini/amministrazione/etticket'
+      pathAllegati: allegati
+    tway:
+      url: 'http://agenziaeu.test2-evolutiontravel.com/amministrazione/tway/'
+    amministrazione:
+      url: 'http://agenziaeu.test2-evolutiontravel.com/amministrazione/'
+    apps:
+      etgest:
+        url: 'http://agenziaeu.test2-evolutiontravel.com/amministrazione/etgest/'
+      tway:
+        url: 'http://agenziaeu.test2-evolutiontravel.com/amministrazione/tway/'
+
+
+stage:
+  .settings:
+    loginUrl: /index.php
+    #baseUrl: 'http://agenzia.evolutiontravel.it'
+    #baseUrl: 'http://agenzia.evolutiontravel.com'
+    baseUrl: 'http://test.evolutiontravelnetwork.com/etgest'
+    apps:
+      etgest:
+        #url: 'http://agenzia.evolutiontravel.it/amministrazione/etgest/'
+        #url: 'http://agenzia.evolutiontravel.com/amministrazione/etgest/'
+        url: 'http://test.evolutiontravelnetwork.com/amministrazione/etgest/'
+      etticket:
+        #url: 'http://agenzia.evolutiontravel.it/amministrazione/etticket/'
+        #url: 'http://agenzia.evolutiontravel.com/amministrazione/etticket/'
+        url: 'http://test.evolutiontravelnetwork.com/amministrazione/etticket/'
+        pathAllegati: allegati
+
+test:
+  .settings:
+    loginUrl: ~
+    baseUrl: 'http://test.evolutiontravelnetwork.com'
+    apps:
+      etgest:
+        url: 'http://test.evolutiontravelnetwork.com/amministrazione/etgest/'
+      etticket:
+        url: 'http://test.evolutiontravelnetwork.com/amministrazione/etticket/'
+        path: ~
+        pathAllegati: allegati
+
+all:
+  .settings:
+    userType:
+      - promotor
+      - PRP
+      - PRS
+      - ETraveler
+      - sede
+    loginUrl: /index.php
+    #baseUrl: 'http://agenzia.evolutiontravel.it/etgest'
+    baseUrl: 'http://agenziaeu.evolutiontravel.com/etgest'
+    wsdlUrl: 'http://agenziaeu.evolutiontravel.it/etgest'
+    brokerUrl: 'http://etbroker.net'
+    siapProxyUrl: 'http://agenziaeu.evolutiontravel.com/siaproxy/proxy.php'
+    siapIncassiUrl: 'http://agenziaeu.evolutiontravel.com/siaproxy/incassi.php'
+    listaNozzeUrl: 'http://lista-nozze.evolutiontravel.com/index.php?page=login'
+    apps:
+      sms:
+        sender: ET
+        path: '/nucleus/srv/www/domini/amministrazione'
+        db:
+          host: sia
+          username: aol-iteu
+          password: '[6FC"Nnv.vI!'
+      etgest:
+        #url: 'http://agenzia.evolutiontravel.it/amministrazione/etgest/'
+        url: 'http://agenziaeu.evolutiontravel.com/amministrazione/etgest/'
+      etticket:
+        #url: 'http://agenzia.evolutiontravel.it/amministrazione/etticket/'
+        url: 'http://agenziaeu.evolutiontravel.com/amministrazione/etticket/'
+        path: '/nucleus/srv/www/domini/amministrazione/etticket'
+        pathAllegati: allegati
+      tway:
+        #url: 'http://agenzia.evolutiontravel.it/amministrazione/tway/'
+        url: 'http://agenziaeu.evolutiontravel.com/amministrazione/tway/'
+      amministrazione:
+        #url: 'http://agenzia.evolutiontravel.it/amministrazione/'
+        url: 'http://agenziaeu.evolutiontravel.com/amministrazione/'
+    agency_default: ETIta
+    agencies:
+      ETIta:
+        email:
+          amministrazione: assistenza.amministrativa@evolutiontravel.it
+          booking: assistenza.booking@evolutiontravel.it
+          noreply: assistenza.booking@evolutiontravel.it
+        tipiViaggio:
+          intermediazione:
+            desc: Intermediazione
+          organizzazione:
+            desc: Organizzazione
+          compravendita:
+            desc: Compravendita
+        quotaType:
+          commissionabile: Commissionabile
+          netta: Netta
+
+        promotorePredefinito: 1
+        margine:
+          scorporo:
+            assicurazione:
+              class: ViaggioScorporoAssicurazione
+              param:
+                desc: Assicur. RC
+                regime:
+                  intermediazione:
+                    abilitato: true
+                    #aliquota: 0.004
+                    #aliquota: 0.00385
+                    aliquota: 0.0035
+                    escludi: [assicurazioneObbligatoria,sconto,incasso,ricavo,costo]
+                  compravendita:    #to be added
+                    abilitato: true    #to be added
+                    aliquota: 0.0035  #to be added
+                    escludi: [assicurazioneObbligatoria,sconto,incasso,ricavo,costo]  #to be added
+                  organizzazione:
+                    abilitato: true
+                    aliquota:
+                      #Italia: 0.00565
+                      Italia: 0.0053
+                      #UE: 0.00565
+                      #UE: 0.0053
+                      UE: 0.0047
+                      #Extra UE: 0.00620
+                      #Extra UE: 0.00585
+                      Extra UE: 0.0052
+                    escludi: [assicurazioneObbligatoria,assicurazione,sconto,incasso,compensoIntermediazione,costo,agencyFee]
+      ETESP:
+        domini:
+          - agencia.evolutiontravel.it
+          - agencia.evolutiontravel.es
+        tipiViaggio:
+          intermediazione:
+            desc: bla bla
+        promotorePredefinito: 1
+      ETUSA:
+        domini:
+          - agency.evolutiontravel.it
+          - agency.evolutiontravel.com
+        tipiViaggio:
+          intermediazione:
+            desc: bla bla
+        promotorePredefinito: 1
+    servizio:
+      accessorio: Accessorio
+      adeguamento: Adeguamento
+      agencyFee: Agency Fee
+      assicurazione: Assicurazione
+      assicurazioneObbligatoria: Assicurazione Obbligatoria
+      commissioneOperatore:
+      compensoIntermediazione: Compenso Intermediazione
+      costo: Costo
+      incasso: Incasso
+      noleggio: Noleggio
+      pacchetto: Pacchetto
+      prenotazione: Prenotazione
+      quotaIscrizione: Quota Iscrizione
+      ricavo: Ricavo
+      sconto: Sconto
+      terra: Terra
+      traghetto: Traghetto
+      voloLinea: Volo Linea
+      voloLowCost: Volo Low Cost
+      transportTypes:
+        1: "volo, solo andata"
+        2: "volo, andata e ritorno"
+        3: "altro, solo andata"
+        4: "altro, andata e ritorno"

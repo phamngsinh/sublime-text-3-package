@@ -1,0 +1,471 @@
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:45 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:45 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:56 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:56 Error: [InternalErrorException] Internal Server Error
+Request URL: /orangescrum/
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /orangescrum/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/orangescrum/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-02 05:57:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /orangescrum/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/orangescrum/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-02 05:57:56 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:56 Error: [InternalErrorException] Internal Server Error
+Request URL: /orangescrum/
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:57:56 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:57:56 Error: [InternalErrorException] Internal Server Error
+Request URL: /orangescrum/
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:58:02 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:58:02 Error: [InternalErrorException] Internal Server Error
+Request URL: /orangescrum/
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:58:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /orangescrum/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/orangescrum/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-02 05:58:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /orangescrum/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/orangescrum/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-02 05:58:02 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:58:02 Error: [InternalErrorException] Internal Server Error
+Request URL: /orangescrum/
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:58:02 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:58:02 Error: [InternalErrorException] Internal Server Error
+Request URL: /orangescrum/
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:58:32 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:58:32 Error: [InternalErrorException] Internal Server Error
+Request URL: /orangescrum/
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:58:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /orangescrum/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/orangescrum/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-02 05:58:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /orangescrum/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/orangescrum/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-02 05:58:32 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:58:32 Error: [InternalErrorException] Internal Server Error
+Request URL: /orangescrum/
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 05:58:32 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/var/www/html/orangescrum/lib/Cake/Utility/String.php, line 25]
+2016-11-02 05:58:32 Error: [InternalErrorException] Internal Server Error
+Request URL: /orangescrum/
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/var/www/html/o...', 25, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}

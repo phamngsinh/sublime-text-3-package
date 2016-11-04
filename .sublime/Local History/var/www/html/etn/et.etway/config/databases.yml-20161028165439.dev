@@ -1,0 +1,32 @@
+dev:
+  propel:
+    param:
+      classname: DebugPDO
+ 
+test:
+  propel:
+    param:
+      classname:  DebugPDO
+ 
+all: 
+  propel:
+    class:        sfPropelDatabase
+    param:
+      dsn:        mysql:dbname=evolutiontravel;host=2z.dbserver2.opensuse
+      username:   evolutiontravel
+      password:   etpassword
+      encoding:   utf8
+      persistent: true
+      pooling:    true
+      classname:  PropelPDO
+  sessions:
+    class:        sfMySQLDatabase
+    param:
+      host:       2z.dbserver2.opensuse
+      database:   evolutiontravel
+      username:   evolutiontravel
+      password:   etpassword
+      encoding:   utf8
+      persistent: false
+      pooling:    false 
+      classname:  PropelPDO

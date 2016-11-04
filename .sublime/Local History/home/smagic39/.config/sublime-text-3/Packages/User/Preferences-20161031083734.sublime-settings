@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 12,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"Dayle Rees Color Schemes",
+		"Vintage"
+	],
+	"theme": "Brogrammer.sublime-theme"
+}

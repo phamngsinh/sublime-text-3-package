@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"font_size": 12,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Brogrammer.sublime-theme"
+}

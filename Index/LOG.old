@@ -1,0 +1,26 @@
+2016/11/04-09:30:31.922991 7fda54cb6700 Recovering log #87
+2016/11/04-09:30:31.923207 7fda54cb6700 Level-0 table #92: started
+2016/11/04-09:30:31.961341 7fda54cb6700 Level-0 table #92: 1312 bytes OK
+2016/11/04-09:30:32.045404 7fda54cb6700 Delete type=0 #87
+2016/11/04-09:30:32.045435 7fda54cb6700 Delete type=3 #85
+2016/11/04-09:30:32.131541 7fda3bfff700 Moved #92 to level-1 1312 bytes OK: files[ 1 1 6 0 0 0 0 ]
+2016/11/04-09:30:32.145954 7fda3bfff700 Compacting 1@1 + 2@2 files
+2016/11/04-09:30:32.270939 7fda3bfff700 Generated table #94: 30855 keys, 2123217 bytes
+2016/11/04-09:30:32.371379 7fda3bfff700 Generated table #95: 23704 keys, 2122772 bytes
+2016/11/04-09:30:32.371397 7fda3bfff700 Compacted 1@1 + 2@2 files => 4245989 bytes
+2016/11/04-09:30:32.414854 7fda3bfff700 compacted to: files[ 1 0 6 0 0 0 0 ]
+2016/11/04-09:31:35.001358 7fda3bfff700 Level-0 table #97: started
+2016/11/04-09:31:35.067370 7fda3bfff700 Level-0 table #97: 1050857 bytes OK
+2016/11/04-09:31:35.098848 7fda3bfff700 Delete type=2 #89
+2016/11/04-09:31:35.099099 7fda3bfff700 Delete type=2 #92
+2016/11/04-09:31:35.099124 7fda3bfff700 Delete type=0 #93
+2016/11/04-09:31:35.099936 7fda3bfff700 Delete type=2 #88
+2016/11/04-09:31:40.112474 7fda3bfff700 Compacting 1@1 + 2@2 files
+2016/11/04-09:31:40.218242 7fda3bfff700 Generated table #98: 30817 keys, 2121141 bytes
+2016/11/04-09:31:40.301828 7fda3bfff700 Generated table #99: 23732 keys, 2122936 bytes
+2016/11/04-09:31:40.335422 7fda3bfff700 Generated table #100: 14 keys, 2201 bytes
+2016/11/04-09:31:40.335438 7fda3bfff700 Compacted 1@1 + 2@2 files => 4246278 bytes
+2016/11/04-09:31:40.364765 7fda3bfff700 compacted to: files[ 1 0 7 0 0 0 0 ]
+2016/11/04-09:31:40.364878 7fda3bfff700 Delete type=2 #94
+2016/11/04-09:31:40.365196 7fda3bfff700 Delete type=2 #95
+2016/11/04-09:31:40.365465 7fda3bfff700 Delete type=2 #97

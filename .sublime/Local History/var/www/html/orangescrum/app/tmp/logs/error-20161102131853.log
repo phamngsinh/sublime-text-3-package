@@ -1,0 +1,57 @@
+2016-11-02 06:03:46 Error: Fatal Error (1): Uncaught TypeError: Argument 1 passed to ErrorHandler::handleException() must be an instance of Exception, instance of Error given in /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php:109
+Stack trace:
+#0 [internal function]: ErrorHandler::handleException(Object(Error))
+#1 {main}
+  thrown in [/var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php, line 109]
+2016-11-02 06:03:46 Error: [InternalErrorException] Internal Server Error
+Request URL: /orangescrum/
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Uncaught TypeEr...', '/var/www/html/o...', 109)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(1, 'Uncaught TypeEr...', '/var/www/html/o...', 109, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 06:03:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /orangescrum/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/orangescrum/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-02 06:03:46 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /orangescrum/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/orangescrum/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-02 06:03:46 Error: Fatal Error (1): Uncaught TypeError: Argument 1 passed to ErrorHandler::handleException() must be an instance of Exception, instance of Error given in /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php:109
+Stack trace:
+#0 [internal function]: ErrorHandler::handleException(Object(Error))
+#1 {main}
+  thrown in [/var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php, line 109]
+2016-11-02 06:03:46 Error: [InternalErrorException] Internal Server Error
+Request URL: /orangescrum/
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Uncaught TypeEr...', '/var/www/html/o...', 109)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(1, 'Uncaught TypeEr...', '/var/www/html/o...', 109, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-02 06:03:46 Error: Fatal Error (1): Uncaught TypeError: Argument 1 passed to ErrorHandler::handleException() must be an instance of Exception, instance of Error given in /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php:109
+Stack trace:
+#0 [internal function]: ErrorHandler::handleException(Object(Error))
+#1 {main}
+  thrown in [/var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php, line 109]
+2016-11-02 06:03:46 Error: [InternalErrorException] Internal Server Error
+Request URL: /orangescrum/
+Stack Trace:
+#0 /var/www/html/orangescrum/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Uncaught TypeEr...', '/var/www/html/o...', 109)
+#1 /var/www/html/orangescrum/lib/Cake/Core/App.php(929): ErrorHandler::handleError(1, 'Uncaught TypeEr...', '/var/www/html/o...', 109, Array)
+#2 /var/www/html/orangescrum/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}

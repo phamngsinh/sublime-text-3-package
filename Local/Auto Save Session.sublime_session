@@ -1,0 +1,1018 @@
+{
+	"folder_history":
+	[
+		"/var/www/html/orangescrum",
+		"/var/www/html/zbox",
+		"/var/www/html/paypal",
+		"/var/www/html/symfony",
+		"/var/www/html/etn",
+		"/var/www/html/rms616",
+		"/var/www/html/paypal-example",
+		"/var/www/html/membership",
+		"/var/www/html/paid-memberships-pro",
+		"/var/www/html/easy-digital-downloads",
+		"/var/www/html/paypal_integration_php",
+		"/var/www/html/Paypal-IPN-Evoluted-14-09-2015",
+		"/media/smagic39/DATA/rms616"
+	],
+	"last_version": 3126,
+	"last_window_id": 19,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fa",
+						"false\t(app.js)"
+					],
+					[
+						"pay",
+						"paypal_redirect"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"jsbea",
+						"Javascript Beautify"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Snippet: htmlboiler"
+					],
+					[
+						"bs3-cdn",
+						"Snippet: bs3-cdn"
+					]
+				],
+				"width": 556.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/var/www/html/test.php",
+				"/media/smagic39/DATA/Mega/evolutiontravel.sql",
+				"/var/www/html/paypal/paypal-example/listen.html",
+				"/var/www/html/paypal/paypal-example/index.php",
+				"/home/smagic39/.PhpStorm2016.2/config/colors/Material Peacock.icls",
+				"/var/www/html/symfony/config/ProjectConfiguration.class.php",
+				"/var/www/html/symfony/plugins/sfPropelMigrationsLightPlugin/lib/task/sfPropelInitMigrationTask.class.php",
+				"/var/www/html/symfony/plugins/package.xml",
+				"/var/www/html/symfony/lib/task/DoNothingTask.class.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/SubscriptionController.php",
+				"/home/smagic39/.config/sublime-text-3/.sublime/Local History/var/www/html/rms616/source/app/Http/Controllers/SubscriptionController-20161026174437.php",
+				"/var/www/html/rms616/source/resources/views/users/edit.blade.php",
+				"/var/www/html/rms616/source/public/js/app.js",
+				"/var/www/html/rms616/source/resources/views/layouts/app.blade.php",
+				"/var/www/html/rms616/source/storage/logs/laravel-2016-10-27.log",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php",
+				"/var/www/html/rms616/source/app/Http/routes.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/AjaxAuthController.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/Auth/PasswordController.php",
+				"/var/www/html/rms616/source/config/mail.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/Auth/AuthController.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/UserController.php",
+				"/var/www/html/rms616/app/Http/Controllers/AjaxAuthController.php",
+				"/var/www/html/rms616/source/app/Traits/AppMailer.php",
+				"/var/www/html/paypal_integration_php/db_config.php",
+				"/var/www/html/paypal_integration_php/index.php",
+				"/var/www/html/easy-digital-downloads/includes/gateways/paypal.php",
+				"/var/www/html/rms616/source/resources/views/emails/register.blade.php",
+				"/var/www/html/paypal-example/index.php",
+				"/var/www/html/easy-digital-downloads/includes/payments/functions.php",
+				"/var/www/html/paid-memberships-pro/includes/lib/Braintree/Braintree/Subscription.php",
+				"/var/www/html/paypal-example/listen.html",
+				"/var/www/html/paypal-example/success.html",
+				"/var/www/html/paid-memberships-pro/adminpages/memberslist.php"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/var/www/html/easy-digital-downloads",
+					"/var/www/html/paid-memberships-pro"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ROW_FORMAT=FIXED",
+					"sfPropelMigrationsLightPlugin",
+					"sfDoctrinePlugin",
+					"Migration001",
+					"',\n",
+					"');\n",
+					"old_password",
+					"edd_insert_payment",
+					"edd_insert_payment(",
+					"edd_insert_payment",
+					"purchase_key",
+					"edd_process_paypal_purchase",
+					"purchase_data",
+					"EXPIRED",
+					"expired",
+					"\">\n",
+					"opcache"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 122.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"sfpropelinitmigrationtask.class.php",
+						"plugins/sfPropelMigrationsLightPlugin/lib/task/sfPropelInitMigrationTask.class.php"
+					],
+					[
+						"subscriptioncontroller.php",
+						"source/app/Http/Controllers/SubscriptionController.php"
+					],
+					[
+						"authcon",
+						"source/app/Http/Controllers/Auth/AuthController.php"
+					],
+					[
+						"email.php",
+						"source/config/mail.php"
+					],
+					[
+						"passwordcontroller.php",
+						"source/app/Http/Controllers/Auth/PasswordController.php"
+					],
+					[
+						"subscriptioncon",
+						"source/app/Http/Controllers/SubscriptionController.php"
+					],
+					[
+						"usercontro",
+						"source/app/Http/Controllers/UserController.php"
+					],
+					[
+						"ajaxauthcontroller",
+						"source/app/Http/Controllers/AjaxAuthController.php"
+					],
+					[
+						"input.php",
+						"source/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php"
+					],
+					[
+						"app.bal",
+						"source/resources/views/layouts/app.blade.php"
+					],
+					[
+						"ajax",
+						"app/Http/Controllers/AjaxAuthController.php"
+					],
+					[
+						"app.js",
+						"source/public/js/app.js"
+					],
+					[
+						"edit.php",
+						"source/resources/views/users/edit.blade.php"
+					],
+					[
+						"subscriptioncontr",
+						"rms616/source/app/Http/Controllers/SubscriptionController.php"
+					],
+					[
+						"py",
+						"easy-digital-downloads/includes/gateways/paypal.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 347.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"create",
+						"created_at\t(DatabaseTokenRepository.php)"
+					],
+					[
+						"fa",
+						"false\t(app.js)"
+					],
+					[
+						"pay",
+						"paypal_redirect"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "mVG246pSHf5cu",
+					"settings":
+					{
+						"buffer_size": 13,
+						"line_ending": "Unix",
+						"name": "mVG246pSHf5cu"
+					}
+				},
+				{
+					"file": "rms616/source/resources/views/client/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 9556,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nAngularJS\n---------\n\n  AngularJS 1.0.0\n  --------------------\n  \n  This version of AngularJS is now a merge of the following two packages:\n  AngularJS - http://deansofer.com/projects/view/74/AngularJs_tmbundle\n  AngularJS Attributes Completion - http://subhaze.github.io/angularjs-attributes\n  \n  This new package provides similar functionality of the two but with added features and options.\n  \n  Some of the added features are:\n  - Quick Panel search of directives/controllers/filters/etc...\n  - GoTo definition for directives\n  - GoToDocs for core AngularJS directives\n  - Directive completions for your custom defined directives\n  \n  To find out more checkout the readme at https://github.com/angular-ui/AngularJS-sublime-package\n  \n  Report issues at https://github.com/angular-ui/AngularJS-sublime-package/issues\n\n\nSFTP\n----\n\n  Thanks for installing Sublime SFTP! Below are some quick notes to get you\n  started with the plugin. Please see https://wbond.net/sublime_packages/sftp for\n  the full documentation.\n  \n  \n  There are two major modes of operation:\n  1. Mapping a local folder to a remote folder\n  2. Working off of a server\n  \n  \n  Mapping a Local Folder to a Remote Folder\n  ----\n  \n  To map a local folder to a remote folder, right-click on it in the side bar\n  and select the SFTP/SFTP > Map to Remote... You will enter your connection\n  parameters and a new file will be created named sftp-config.json.\n  \n  Once this file has been saved, all files in that folder and all subfolders\n  will have various operations available via the side bar context menu, editor\n  context menu and command palette.\n  \n  \n  Working off of a Server\n  ----\n  \n  To work off of a server, use the File menu and select SFTP/FTP > Setup Server...\n  You will enter your connection parameters and options then save the file with\n  the name you want to give the connection.\n  \n  Once the server config is saved, you will be automatically connected to the\n  server and you can browse and perform actions via the quick panel.\n  \n  Unfortunely due to limitations of the Sublime Text API, it is not possible\n  to present the remote filesystem in the side bar. There are, however, key\n  bindings for connecting to servers to help reduce the amount of time remote\n  file operations take.\n  \n  \n  Support\n  ----\n  \n  To learn more about the features and settings, please visit\n  https://wbond.net/sublime_packages/sftp.\n  \n  If you are having trouble, please visit\n  https://wbond.net/sublime_packages/sftp/support. The support page includes\n  instructions for capturing a debug log that will be useful if you believe\n  you are experiencing a bug.\n\n\nSublimeLinter\n-------------\n\n  \n    ____        _     _ _                _     _       _\n   / ___| _   _| |__ | (_)_ __ ___   ___| |   (_)_ __ | |_ ___ _ __\n   \\___ \\| | | | '_ \\| | | '_ ` _ \\ / _ \\ |   | | '_ \\| __/ _ \\ '__|\n    ___) | |_| | |_) | | | | | | | |  __/ |___| | | | | ||  __/ |\n   |____/ \\__,_|_.__/|_|_|_| |_| |_|\\___|_____|_|_| |_|\\__\\___|_|\n  \n  \n  Welcome to SublimeLinter, a linter framework for Sublime Text 3.\n  \n                   * * * IMPORTANT! * * *\n  \n          SublimeLinter 3 is NOT a drop-in replacement for\n          earlier versions.\n  \n          Linters *NOT* included with SublimeLinter 3, \n          they must be installed separately.\n  \n          The settings are different.\n  \n                  * * * READ THE DOCS! * * *\n  \n  Otherwise you will never know how to install linters, nor will\n  you know about all of the great new features in SublimeLinter 3.\n  \n  For complete documentation on how to install and use SublimeLinter,\n  please see:\n  \n  http://www.sublimelinter.com\n  \n  \n                   _   _      _       _\n                  | | | | ___| |_ __ | |\n                  | |_| |/ _ \\ | '_ \\| |\n                  |  _  |  __/ | |_) |_|\n                  |_| |_|\\___|_| .__/(_)\n                               |_|\n  \n  \n  Hundreds of hours have been spent writing and documenting SublimeLinter\n  to make it the best it can be — easy to use, easy to configure,\n  easy to update, easy to extend. If you use SublimeLinter and feel\n  it is making your coding life better and easier, please consider\n  making a donation to help fund development and support.\n  \n  To donate: https://github.com/SublimeLinter/SublimeLinter3#share-the-love\n  \n  Thank you!\n\n\nMarkdown Preview\n----------------\n\n  Sublime Text 2/3 Markdown Preview\n  =================================\n  \n  Preview and build your markdown files quickly in your web browser from sublime text 2/3. \n  \n  You can use builtin [python-markdown][10] parser or use the [github markdown API][5] for the conversion.\n  \n  **NOTE:** If you choose the GitHub API for conversion (set parser: github in your settings), your code will be sent through https to github for live conversion. You'll have [Github flavored markdown][6], syntax highlighting and EMOJI support for free :heart: :octocat: :gift:. If you make more than 60 calls a day, be sure to set your GitHub API key in the settings :). You can also get most of this in the default Markdown parser with by enabling certain extensions; see \"[Parsing Github Flavored Markdown](#parsing-github-flavored-markdown-)\"\" below for more information.\n  \n  **LINUX users:** If you want to use GitHub API for conversion, you'll need to have a custom Python install that includes python-ssl as its not built in the Sublime Text 2 Linux package. see [@dusteye comment][8]. If you use a custom window manager, also be sure to set a `BROWSER` environment variable. see [@PPvG comments][9]\n  \n  ## Features :\n  \n   - Markdown preview using the [Python-markdown][10] or the Github API just choose select the build commands.\n   - Syntax highlighting via Pygments. See \"[Configuring Pygments](#configuring-pygments)\" for more info.\n   - Build markdown file using Sublime Text build system. The build parser are config via the `\"parser\"` config.\n   - Browser preview auto reload on save if you have the [ST2 LiveReload plugin][7] installed.\n   - Builtin parser : supports `abbr`, `attr_list`, `def_list`, `fenced_code`, `footnotes`, `tables`, `smart_strong`, `smarty`,  `wikilinks`, `meta`, `sane_lists`, `codehilite`, `nl2br`, and `toc` markdown extensions.\n   - CSS search path for local and build-in CSS files (always enabled) and/or CSS overriding if you need\n   - YAML support thanks to @tommi\n   - Clipboard selection and copy to clipboard thanks to @hexatrope\n   - MathJax support : \\\\\\\\(\\frac{\\pi}{2}\\\\\\\\) thanks to @bps10\n   - HTML template customisation thanks to @hozaka\n   - Embed images as base64 (see [settings][settings] file for more info)\n   - Strip out multimarkdown critic marks from either Githubs or Python Markdown input source (see [settings][settings] file for more info)\n   - 3rd party extensions for the Python Markdown parser:\n  \n      | Extension | Documentation |\n      |-----------|---------------|\n      | magiclink | Find and convert HTML links and email address to links ([MagicLink Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/magiclink/)). |\n      | delete | Surround inline text with `~~strike through~~` to get del tags ~~strike through~~. |\n      | insert | Surround inline text with `^^underlined^^` to get ins tags <ins>underlined</ins>. |\n      | tasklist | Github Flavored Markdown tasklists ([Tasklist Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/tasklist/)). |\n      | githubemoji | Support for Github Flavored Markdown emojis ([GithubEmoji Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/githubemoji/)). |\n      | headeranchor | Github Flavored Markdown style header anchors ([HeaderAnchor Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/headeranchor/)). |\n      | github | A convenience extension to add: `magiclink`, `delete`, `tasklist`, `githubemoji`, `headeranchor`, `superfences`, and `nl2br` to parse and display Markdown in a github-ish way.  It is recommed to pair `github` with `extra` and `codehilite` (with language guessing off) to parse close to github's way.  Be aware of what extensions `github` loads, because you should not load extensions more than once. |\n      | progressbar | Create progress bars ([ProgressBar Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/progressbar/)). |\n      | superfences | Allow fenced blocks to be nested under lists, blockquotes, etc. and add special UML diagram blocks ([SuperFences Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/superfences/)). |\n  \n  ## Installation :\n  \n  ### Using [Package Control][3] (*Recommended*)\n  \n  For all Sublime Text 2/3 users we recommend install via [Package Control][3].\n  \n  1. [Install][11] Package Control if you haven't yet.\n  2. Use <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>P</kbd> then `Package Control: Install Package`\n  3. Look for `Markdown Preview` and install it.\n  \n  ### Manual Install\n  \n  1. Click the `Preferences > Browse Packages…` menu\n  2. Browse up a folder and then into the `Installed Packages/` folder\n  3. Download [zip package][12] rename it to `Markdown Preview.sublime-package` and copy it into the `Installed Packages/` directory\n  4. Restart Sublime Text\n  \n  ## Usage :\n  \n  ### To preview :\n  \n   - optionally select some of your markdown for conversion\n   - use <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>P</kbd> then `Markdown Preview` to show the follow commands (you will be prompted to select which parser you prefer):\n  \t- Markdown Preview: Preview in Browser\n  \t- Markdown Preview: Export HTML in Sublime Text\n  \t- Markdown Preview: Copy to Clipboard\n  \t- Markdown Preview: Open Markdown Cheat sheet\n   - or bind some key in your user key binding, using a line like this one:\n     `{ \"keys\": [\"alt+m\"], \"command\": \"markdown_preview\", \"args\": {\"target\": \"browser\", \"parser\":\"markdown\"} },` for a specific parser and target or `{ \"keys\": [\"alt+m\"], \"command\": \"markdown_preview_select\", \"args\": {\"target\": \"browser\"} },` to bring up the quick panel to select enabled parsers for a given target.\n   - once converted a first time, the output HTML will be updated on each file save (with LiveReload plugin)\n  \n  ### Enabling Other External Markdown Parsers :\n  \n  External parser commands and arguments should first be mapped to a name.  The path to the binary should be first, followed by flags etc.\n  \n  ```js\n      \"markdown_binary_map\": {\n          \"multimarkdown\": [\"/usr/local/bin/multimarkdown\"]\n      },\n  ```\n  \n  Then the name can be placed in `enabled_parsers` to enable use of the new parser.\n  \n  ```js\n      \"enabled_parsers\": [\"markdown\", \"github\", \"multimarkdown\"],\n  ```\n  \n  ### To build :\n  \n   - Just use <kbd>ctrl</kbd>+<kbd>B</kbd> (Windows/Linux) or <kbd>cmd</kbd>+<kbd>B</kbd> (Mac) to build current file.\n  \n  ### To config :\n  \n  Using Sublime Text menu: `Preferences`->`Package Settings`->`Markdown Preview`\n  \n  - `Settings - User` is where you change your settings for Markdown Preview.\n  - `Settings - Default` is a good reference with detailed descriptions for each setting.\n  \n  ### Configuring Pygments\n  If you add the codehilite extension manually in the enabled extensions, you can override some of the default settings.\n  \n  * Turn language guessing *on* or *off* (*on* will highlight fenced blocks even if you don't specify a language)  `codehilite(guess_lang=False)` (True|False).\n  * Show line numbers: `codehilite(linenums=True)` (True|False).\n  * Change the higlight theme: `codehilite(pygments_style=emacs)`.\n  * Inline the CSS: `codehilite(noclasses=True)` (True|False).\n  * Use multiple: `codehilite(linenums=True, pygments_style-emacs)`.\n  \n  See [codehilte page](https://pythonhosted.org/Markdown/extensions/code_hilite.html) for more info.\n  \n  ### Meta Data Support\n  When the `meta` extension is enabled (https://pythonhosted.org/Markdown/extensions/meta_data.html), the results will be written to the HTML head in the form `<meta name=\"key\" content=\"value1,value2\">`.  `title` is the one exception, and its content will be written to the title tag in the HTML head.\n  \n  ### YAML Frontmatter Support\n  YAML frontmatter can be stripped out and read when `strip_yaml_front_matter` is set to  `true` in the settings file.  In general the, the fronmatter is handled the same as [meta data](#meta-data-support), but if both exist in a file, the YAML keys will override the `meta` extension keys.  There are a few special keys names that won't be handled as html meta data.\n  \n  #### Special YAML Key Names\n  Yaml frontmatter has a few special key names that are used that will not be handled as meta data:\n  \n  - **basepath**: An absolute path to configure the relative paths for images etc. (for when the markdown is supposed to reference images in a different location.)\n  - **references**: Can take a file path or an array of file paths for separate markdown files containing references, footnotes, etc.  Can be an absolute path or relative path.  Relative paths first use the source file's directory, and if the file cannot be found, it will use the `basepath` setting.\n  - **destination**: This is an absolute file path or relative file path for when the markdown is saved to html via the build command or the `Save to HTML` command.  Relative paths first use the source file's directory, and if the file cannot be found, it will use the `basepath` setting.\n  - **settings**: This is a dictionary where you can override settings that are in the settings file.\n  \n  #### Example\n  ```yaml\n  ---\n      # Builtin values\n      references:\n          - references.md\n          - abbreviations.md\n          - footnotes.md\n  \n      destination: destination.html\n  \n      # Meta Data\n      title: Test Page\n      author:\n          - John Doe\n          - Jane Doe\n  \n      # Settings overrides\n      settings:\n          enabled_extensions:\n          - extra\n          - github\n          - toc\n          - headerid\n          - smarty(smart_quotes=False) # smart quotes interferes with attr_list\n          - meta\n          - wikilinks\n          - admonition\n          - codehilite(guess_lang=False,pygments_style=github)\n  ---\n  ```\n  \n  ### Parsing Github Flavored Markdown :\n  Github Flavored Mardown (GFM) is a very popular markdown.  Markdown Preview can actually handle them in a couple of ways: online and offline.\n  \n  #### Online :\n  Parsing GFM using the online method requires using the Github API as the parser.  It may also require setting `github_mode` to `gfm` to get things like tasklists to render properly. You can set your API key in the settings as follows:\n  \n  ```js\n      \"github_oauth_token\": \"secret\"\n  ```\n  \n  #### Offline :\n  By default almost all extensions are enabled to help with the github feel, but there are some tweaks needed to get the full experience.\n  \n  GFM does not auto guess language in fenced blocks, but Markdown Preview does this by default.  You can fix this in one of two ways:\n  \n  1. Disable auto language guessing in the settings file `\"guess_language\": false,`\n  2. Or if you are manually defining extensions: `\"enabled_extensions\": [\"codehilite(guess_lang=False,pygments_style=github)\"]`\n  \n  \n  As mentioned earlier, almost all extensions are enabled by default, but as a reference, the minimum extensions that should be enabled are listed below:\n  \n  ```javascript\n  \t\"enabled_extensions\": [\n  \t\t\"extra\",\n  \t\t\"github\",\n  \t\t\"codehilite(guess_lang=False,pygments_style=github)\"\n  \t]\n  ```\n  \n  This may be further enhanced in the future.\n  \n  \n  ## Support :\n  \n  - Any bugs about Markdown Preview please feel free to report [here][issue].\n  - And you are welcome to fork and submit pullrequests.\n  \n  \n  ## License :\n  \n  The code is available at github [project][home] under [MIT licence][4].\n  \n   [home]: https://github.com/revolunet/sublimetext-markdown-preview\n   [3]: https://packagecontrol.io/\n   [4]: http://revolunet.mit-license.org\n   [5]: https://developer.github.com/v3/markdown/\n   [6]: https://help.github.com/articles/github-flavored-markdown/\n   [7]: https://github.com/dz0ny/LiveReload-sublimetext2\n   [8]: https://github.com/revolunet/sublimetext-markdown-preview/issues/27#issuecomment-11772098\n   [9]: https://github.com/revolunet/sublimetext-markdown-preview/issues/78#issuecomment-15644727\n   [10]: https://github.com/waylan/Python-Markdown\n   [11]: https://packagecontrol.io/installation\n   [12]: https://github.com/revolunet/sublimetext-markdown-preview/archive/master.zip\n   [issue]: https://github.com/revolunet/sublimetext-markdown-preview/issues\n   [settings]: https://github.com/revolunet/sublimetext-markdown-preview/blob/master/MarkdownPreview.sublime-settings\n",
+					"settings":
+					{
+						"buffer_size": 16722,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"contents": "<header>\n    <div class=\"block-logo text-center\">\n        <img src=\"{{url('images/logo.png')}}\">\n    </div>\n    <div class=\"block-account dropdown\">\n        @if (\\Auth::check())\n        <a href=\"#\" class=\"text-black dropdown-toggle \" data-toggle=\"dropdown\">\n            <span style=\"vertical-align: -webkit-baseline-middle;\" class=\"text-black\">{{\\Auth::user()->name}}</span>&nbsp;\n            <img src=\"{{url('images/user-ico.png')}}\">\n        </a>\n        @else                                                                   \n        <a href=\"#\" class=\"text-black dropdown-toggle \" data-toggle=\"dropdown\">\n\n            <img src=\"{{url('images/user-ico.png')}}\">\n        </a>\n        @endif\n        @if (\\Auth::check())\n            <ul class=\"dropdown-menu-list scroller dropdown-menu\">\n                <li><a href=\"{{route('users.edit', Auth::user()->id)}}\" class=\"text-black\">Your account</a></li>\n                <li><a href=\"{{url('users/dashboard')}}\" class=\"text-black\">Dashboard</a></li>\n                <li><a href=\"{{route('subscriptions.upgrade',Auth::user()->id)}}\" class=\"text-black\">Upgrade</a></li>\n                <li><a href=\"{{url('/logout')}}\" class=\"text-black\">Logout</a></li>\n            </ul>\n\n        @else\n            <ul class=\"dropdown-menu-list scroller dropdown-menu\">\n                <li><a href=\"{{url('/login')}}\" class=\"text-black\">Login</a></li>\n                <li><a href=\"{{url('/register')}}\" class=\"text-black\">Register</a></li>\n            </ul>\n        @endif\n\n    </div>\n</header> <!-- end header -->\n",
+					"file": "rms616/source/resources/views/layouts/header.blade.php",
+					"file_size": 1478,
+					"file_write_time": 131224396573852034,
+					"settings":
+					{
+						"buffer_size": 1545,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"jsbea",
+						"Javascript Beautify"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Snippet: htmlboiler"
+					],
+					[
+						"bs3-cdn",
+						"Snippet: bs3-cdn"
+					]
+				],
+				"width": 601.0
+			},
+			"console":
+			{
+				"height": 175.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/var/www/html/rms616",
+				"/var/www/html/rms616/source",
+				"/var/www/html/rms616/source/Modules",
+				"/var/www/html/rms616/source/app",
+				"/var/www/html/rms616/source/database",
+				"/var/www/html/rms616/source/resources",
+				"/var/www/html/rms616/source/resources/views",
+				"/var/www/html/rms616/source/resources/views/client",
+				"/var/www/html/rms616/source/storage",
+				"/var/www/html/rms616/source/storage/logs"
+			],
+			"file_history":
+			[
+				"/var/www/html/rms616/source/app/User.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+				"/home/smagic39/.config/sublime-text-3/Packages/phpfmt/message",
+				"/var/www/html/rms616/source/resources/views/client/index.blade.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/Auth/PasswordController.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+				"/var/www/html/rms616/source/app/Repositories/UserRepository.php",
+				"/var/www/html/rms616/source/resources/views/layouts/footer.blade.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/ClientController.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Auth/Passwords/DatabaseTokenRepository.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/SubscriptionController.php",
+				"/var/www/html/rms616/source/app/Helper/helpers.php",
+				"/var/www/html/rms616/source/public/assets/scripts/admin.js",
+				"/var/www/html/rms616/source/config/currency.php",
+				"/var/www/html/rms616/source/config/auth.php",
+				"/var/www/html/rms616/source/resources/assets/js/app.js",
+				"/var/www/html/rms616/source/public/assets/scripts/frontend.js",
+				"/var/www/html/rms616/source/public/assets/scripts/app.js",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordBroker.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php",
+				"/var/www/html/rms616/source/storage/logs/laravel-2016-11-03.log",
+				"/var/www/html/rms616/source/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+				"/var/www/html/rms616/source/database/migrations/2016_11_03_030830_update_password_resets_table.php",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php",
+				"/home/smagic39/.config/sublime-text-3/.sublime/Local History/var/www/html/rms616/source/app/Http/Controllers/SubscriptionController-20161026174437.php",
+				"/var/www/html/rms616/source/resources/views/users/edit.blade.php",
+				"/var/www/html/rms616/source/public/js/app.js",
+				"/var/www/html/rms616/source/resources/views/layouts/app.blade.php",
+				"/var/www/html/rms616/source/storage/logs/laravel-2016-10-27.log",
+				"/var/www/html/rms616/source/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php",
+				"/var/www/html/rms616/source/app/Http/routes.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/AjaxAuthController.php",
+				"/var/www/html/rms616/source/config/mail.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/Auth/AuthController.php",
+				"/var/www/html/rms616/source/app/Http/Controllers/UserController.php",
+				"/var/www/html/rms616/app/Http/Controllers/AjaxAuthController.php",
+				"/var/www/html/rms616/source/app/Traits/AppMailer.php",
+				"/var/www/html/paypal_integration_php/db_config.php",
+				"/var/www/html/paypal_integration_php/index.php",
+				"/var/www/html/easy-digital-downloads/includes/gateways/paypal.php",
+				"/var/www/html/rms616/source/resources/views/emails/register.blade.php",
+				"/var/www/html/paypal-example/index.php",
+				"/var/www/html/easy-digital-downloads/includes/payments/functions.php",
+				"/var/www/html/paid-memberships-pro/includes/lib/Braintree/Braintree/Subscription.php",
+				"/var/www/html/paypal-example/listen.html",
+				"/var/www/html/paypal-example/success.html",
+				"/var/www/html/paid-memberships-pro/adminpages/memberslist.php"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/var/www/html/rms616/source",
+					"/var/www/html/rms616/source/resources",
+					"/var/www/html/rms616/source",
+					"/var/www/html/rms616/source/resources/views",
+					"/var/www/html/rms616/source/resources",
+					"/var/www/html/rms616/source",
+					"/var/www/html/easy-digital-downloads",
+					"/var/www/html/paid-memberships-pro"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"')\n",
+					"mVG246pSHf5cu",
+					"CLIENT LIST",
+					"How to use",
+					"tokenIsExpired",
+					"expired",
+					"password_resets",
+					"account_link_expired",
+					");\n",
+					"token_is_expired",
+					"-",
+					"strtoupper(",
+					"Auth::user()->currency)",
+					"subscription_package_amount_total",
+					"render",
+					"currency",
+					"account_link_expired",
+					"',\n",
+					"');\n",
+					"old_password",
+					"edd_insert_payment",
+					"edd_insert_payment(",
+					"edd_insert_payment",
+					"purchase_key",
+					"edd_process_paypal_purchase",
+					"purchase_data",
+					"EXPIRED",
+					"expired",
+					"\">\n",
+					"opcache"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 13,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13,
+										13
+									]
+								],
+								"settings":
+								{
+									"auto_name": "mVG246pSHf5cu",
+									"default_dir": "/var/www/html/rms616",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "rms616/source/resources/views/client/index.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9556,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9556,
+										9556
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16722,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										16722,
+										16722
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"default_dir": "/var/www/html/rms616",
+									"incomplete_sync": null,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "rms616/source/resources/views/layouts/header.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1545,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1545,
+										1545
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 38.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 122.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "rms616.sublime-project",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"header.blade",
+						"source/resources/views/layouts/header.blade.php"
+					],
+					[
+						"clientcontroller",
+						"source/app/Http/Controllers/ClientController.php"
+					],
+					[
+						"help",
+						"source/app/Helper/helpers.php"
+					],
+					[
+						"auth.php",
+						"source/config/auth.php"
+					],
+					[
+						"2016_11_03_030830_update_password_resets_table",
+						"source/database/migrations/2016_11_03_030830_update_password_resets_table.php"
+					],
+					[
+						"databasetokenrepository",
+						"source/vendor/laravel/framework/src/Illuminate/Auth/Passwords/DatabaseTokenRepository.php"
+					],
+					[
+						"subscriptioncontroller.php",
+						"source/app/Http/Controllers/SubscriptionController.php"
+					],
+					[
+						"authcon",
+						"source/app/Http/Controllers/Auth/AuthController.php"
+					],
+					[
+						"email.php",
+						"source/config/mail.php"
+					],
+					[
+						"passwordcontroller.php",
+						"source/app/Http/Controllers/Auth/PasswordController.php"
+					],
+					[
+						"subscriptioncon",
+						"source/app/Http/Controllers/SubscriptionController.php"
+					],
+					[
+						"usercontro",
+						"source/app/Http/Controllers/UserController.php"
+					],
+					[
+						"ajaxauthcontroller",
+						"source/app/Http/Controllers/AjaxAuthController.php"
+					],
+					[
+						"input.php",
+						"source/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php"
+					],
+					[
+						"app.bal",
+						"source/resources/views/layouts/app.blade.php"
+					],
+					[
+						"ajax",
+						"app/Http/Controllers/AjaxAuthController.php"
+					],
+					[
+						"app.js",
+						"source/public/js/app.js"
+					],
+					[
+						"edit.php",
+						"source/resources/views/users/edit.blade.php"
+					],
+					[
+						"subscriptioncontr",
+						"rms616/source/app/Http/Controllers/SubscriptionController.php"
+					],
+					[
+						"py",
+						"easy-digital-downloads/includes/gateways/paypal.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 288.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 19,
+			"workspace_name": "/var/www/html/rms616.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/var/www/html/rms616.sublime-workspace",
+			"/var/www/html/paypal.sublime-workspace",
+			"/var/www/html/symfony.sublime-workspace",
+			"/var/www/html/etn.sublime-workspace"
+		]
+	}
+}

@@ -1,0 +1,31 @@
+risk24-redis:
+  image: phpdockerio/redis:latest
+  container_name: risk24-redis
+
+risk24-webserver:
+  image: phpdockerio/nginx:latest
+  container_name: risk24-webserver
+  volumes:
+      - ./source:/var/www/risk24
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf
+  ports:
+   - "8000:80"
+  links:
+   - risk24-php-fpm
+
+risk24-php-fpm:
+  build: .
+  dockerfile: php-fpm/Dockerfile
+  container_name: risk24-php-fpm
+  volumes:
+    - ./source:/var/www/risk24
+    - ./php-fpm/php-ini-overrides.ini:/etc/php/7.0/fpm/conf.d/99-overrides.ini
+  links:
+    - risk24-redis
+
+risk24-node:
+  build: .
+  dockerfile: node/Dockerfile
+  container_name: risk24-node
+  volumes:
+    - ./source:/var/www/risk24
